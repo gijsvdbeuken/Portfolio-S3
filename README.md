@@ -5,6 +5,7 @@ _Made by Gijs van den Beuken_
 ## Table of Contents
 
 - [Introduction](#heading-introduction)
+- [Portfolio Structure](#heading-portfolio-structure)
 - [Projects](#heading-projects)
   - [Overview of Each Project](#subheading-overview-of-each-project)
 - [Learning Outcomes](#heading-learning-outcomes)
@@ -16,17 +17,20 @@ Welcome to my Semester 3 portfolio at Fontys University of Applied Sciences in t
 
 This portfolio has been crafted to exhibit my accomplishments and personal growth in the field of ICT. It stands as evidence of my attainment of the learning objectives assigned to us for this semester.
 
-## Portfolio structure
+## Portfolio Structure <a name="heading-portfolio-structure"></a>
+
+This portfolio encompasses all repositories, as they are linked to the current repositroy in which we are in right now. Below, you will discover an overview detailing the organization and structure of these repositories.
 
 ```
 Portfolio-S3
 └─ GPS3-DBO2-overview
+   └─ S3_DB_IO
 └─ IPS3-DBO2-overview
-   └─fxWizard-script
-   └─fxWizard-front-end
-   └─fxWizard-back-end
-   └─fxWizard-documentation
-   └─fxWizard-API
+   └─ fxWizard-script
+   └─ fxWizard-front-end
+   └─ fxWizard-back-end
+   └─ fxWizard-documentation
+   └─ fxWizard-API
 ```
 
 ## Projects <a name="heading-projects"></a>
