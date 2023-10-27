@@ -28,48 +28,50 @@ Each of these links offers all relevant information regarding the respective pro
 <!-- Start of Table of Contents -->
 <table>
   <tr>
-    <td align="left">Learning outcome</td>
-    <td align="left">Rating</td>
-    <td align="left">Clarification</td>
+    <td align="left">**Learning outcome**</td>
+    <td align="left">**Rating**</td>
+    <td align="left">**Clarification**</td>
   </tr>
   <tr>
     <td align="left">Web Application</a></td>
     <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.
+    
+    [Click here to visit GitHub](https://github.com) :link: </td>
   </tr>
   <tr>
-    <td align="center">Web Application</a></td>
-    <td align="center">Advanced</a></td>
-    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">Software quality</a></td>
+    <td align="left">Advanced</a></td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
   </tr>
   <tr>
-    <td align="center">Web Application</a></td>
-    <td align="center">Advanced</a></td>
-    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">Agile method</a></td>
+    <td align="left">Advanced</a></td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
   </tr>
   <tr>
-    <td align="center">Web Application</a></td>
-    <td align="center">Advanced</a></td>
-    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">CI/CD</a></td>
+    <td align="left">Advanced</a></td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
   </tr>
   <tr>
-    <td align="center">Web Application</a></td>
-    <td align="center">Advanced</a></td>
-    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">Cultural Differences and Ethics</a></td>
+    <td align="left">Advanced</a></td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
   </tr>
   <tr>
-    <td align="center">Web Application</a></td>
-    <td align="center">Advanced</a></td>
-    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">Requirements and design</a></td>
+    <td align="left">Advanced</a></td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
   </tr>
   <tr>
-    <td align="center">Web Application</a></td>
-    <td align="center">Advanced</a></td>
-    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">Business processes</a></td>
+    <td align="left">Advanced</a></td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus..</td>
   </tr>
   <tr>
-    <td align="center">Web Application</a></td>
-    <td align="center">Advanced</a></td>
-    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">Professional</a></td>
+    <td align="left">Advanced</a></td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
   </tr>
 </table>
