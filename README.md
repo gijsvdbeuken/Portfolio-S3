@@ -33,13 +33,15 @@ Each of these links offers all relevant information regarding the respective pro
     <td align="left">**Clarification**</td>
   </tr>
   <tr>
-    <td align="left">Web Application</td>
-    <td align="left">Advanced</td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.
+  <td align="left">Web Application</td>
+  <td align="left">Advanced</td>
+  <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.
+  
+  [Proof of achievement](https://github.com)
+  
+  :link:</td>
+</tr>
 
-    [Proof of achievement :link:](https://github.com)</td>
-
-  </tr>
   <tr>
     <td align="left">Software quality</a></td>
     <td align="left">Advanced</a></td>
