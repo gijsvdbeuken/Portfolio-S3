@@ -16,6 +16,19 @@ Welcome to my Semester 3 portfolio at Fontys University of Applied Sciences in t
 
 This portfolio has been crafted to exhibit my accomplishments and personal growth in the field of ICT. It stands as evidence of my attainment of the learning objectives assigned to us for this semester.
 
+## Portfolio structure
+
+```
+Portfolio-S3
+└─ GPS3-DBO2-overview
+└─ IPS3-DBO2-overview
+   └─fxWizard-script
+   └─fxWizard-front-end
+   └─fxWizard-back-end
+   └─fxWizard-documentation
+   └─fxWizard-API
+```
+
 ## Projects <a name="heading-projects"></a>
 
 The third semester has predominantly been divided into two distinct categories: the individual project and the group project. To access detailed information about these projects, please follow the links provided below.
