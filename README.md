@@ -19,7 +19,7 @@ This portfolio has been crafted to exhibit my accomplishments and personal growt
 
 ## Portfolio Structure <a name="heading-portfolio-structure"></a>
 
-This portfolio encompasses all repositories, as they are linked to the current repositroy in which we are in right now. Below, you will discover an overview detailing the organization and structure of these repositories.
+This portfolio comprises all relevant repositories associated with the third semester. Below, you will find an overview that provides insight into the organization and structure of these repositories.
 
 ```
 Portfolio-S3
