@@ -28,9 +28,9 @@ Each of these links offers all relevant information regarding the respective pro
 <!-- Start of Table of Contents -->
 <table>
   <tr>
-    <td align="center"><a href="#section1">Section 1</a></td>
-    <td align="center"><a href="#section2">Section 2</a></td>
-    <td align="center"><a href="#section3">Section 3</a></td>
+    <td align="center">Learning outcome</td>
+    <td align="center">Rating</td>
+    <td align="center">Clarification</td>
   </tr>
   <tr>
     <td align="center"><a href="#section4">Section 4</a></td>
