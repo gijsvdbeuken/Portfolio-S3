@@ -41,8 +41,8 @@ Each of these links offers all relevant information regarding the respective pro
 
 ### Overview of Each Project <a name="subheading-overview-of-each-project"></a>
 
-- [Individual Project Overview](../IPS3-DB02-overview)
-- [Group Project Overview](../IPS3-DB02-overview)
+- [Individual Project Overview](https://github.com/gijsvdbeuken/IPS3-DB02-overview)
+- [Group Project Overview](https://github.com/gijsvdbeuken/IPS3-DB02-overview)
 
 ## Learning Outcomes <a name="heading-learning-outcomes"></a>
 
