@@ -6,7 +6,9 @@ _Made by Gijs van den Beuken_
 
 - [Introduction](#heading-introduction)
 - [Projects](#heading-projects)
+  - [Overview of Each Project](#subheading-overview-of-each-project)
 - [Learning Outcomes](#heading-learning-outcomes)
+  - [Proof of achievement](#subheading-proof-of-achievement)
 
 ## Introduction <a name="heading-introduction"></a>
 
@@ -20,6 +22,8 @@ The third semester has predominantly been divided into two distinct categories: 
 
 Each of these links offers all relevant information regarding the respective project, encompassing documentation, architecture, front-end, back-end, etc.
 
+### Overview of Each Project <a name="subheading-overview-of-each-project"></a>
+
 - [Individual Project Overview](../IPS3-DB02-overview)
 - [Group Project Overview](../IPS3-DB02-overview)
 
@@ -31,7 +35,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
 
 [Explanation of the Learning Outcomes](./Learning-outcomes.md)
 
-### Proof of Achievement
+### Proof of Achievement <a name="subheading-proof-of-achievement"></a>
 
 <table>
   <tr>
