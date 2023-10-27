@@ -62,7 +62,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   </tr>
   <tr>
   <td align="left">Web Application</td>
-  <td align="left">Advanced</td>
+  <td align="left">Not yet specified</td>
   <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
 **Proof of achievement: [:link:](https://github.com)**<br><br>
@@ -72,7 +72,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
 
   <tr>
     <td align="left">Software quality</a></td>
-    <td align="left">Advanced</a></td>
+    <td align="left">Not yet specified</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
 **Proof of achievement: [:link:](https://github.com)**<br><br>
@@ -81,7 +81,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   </tr>
   <tr>
     <td align="left">Agile method</a></td>
-    <td align="left">Advanced</a></td>
+    <td align="left">Not yet specified</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
 **Proof of achievement: [:link:](https://github.com)**<br><br>
@@ -90,7 +90,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   </tr>
   <tr>
     <td align="left">CI/CD</a></td>
-    <td align="left">Advanced</a></td>
+    <td align="left">Not yet specified</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
 **Proof of achievement: [:link:](https://github.com)**<br><br>
@@ -108,7 +108,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   </tr>
   <tr>
     <td align="left">Requirements and design</a></td>
-    <td align="left">Advanced</a></td>
+    <td align="left">Not yet specified</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
 **Proof of achievement: [:link:](https://github.com)**<br><br>
@@ -117,7 +117,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   </tr>
   <tr>
     <td align="left">Business processes</a></td>
-    <td align="left">Advanced</a></td>
+    <td align="left">Not yet specified</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
 **Proof of achievement: [:link:](https://github.com)**<br><br>
@@ -126,7 +126,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   </tr>
   <tr>
     <td align="left">Professional</a></td>
-    <td align="left">Advanced</a></td>
+    <td align="left">Not yet specified</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
 **Proof of achievement: [:link:](https://github.com)**<br><br>
