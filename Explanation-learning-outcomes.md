@@ -1,4 +1,4 @@
-### Explanation of Learing Outcomes
+# Explanation of Learing Outcomes
 
 <table>
   <tr>
@@ -9,7 +9,7 @@
   <tr>
   <td align="left">Web Application</td>
   <td align="left">You design and build user-friendly, full-stack web applications</td>
-  <td align="left">User friendly: You apply best practices when creating user interfaces and basic user experience testing and development techniques.
+  <td align="left">User friendly: You apply best practices when creating user interfaces and basic user experience testing and development techniques. <br><br>
 
 Full-stack: You design and build a full stack application using a commonly accepted front end Javascript framework and back end application implementing relevant communication protocols, persistence of data by usage of ORM and addressing asynchronous communication issues.
 
@@ -40,9 +40,9 @@ Full-stack: You design and build a full stack application using a commonly accep
   <tr>
     <td align="left">Cultural Differences and Ethics</a></td>
     <td align="left">You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.</a></td>
-    <td align="left">Recognize: Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
+    <td align="left">Recognize: Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.<br><br>
 
-Take into account: Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
+Take into account: Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;<br><br>
 
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
 
@@ -58,22 +58,22 @@ Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Et
   <tr>
     <td align="left">Business processes</a></td>
     <td align="left">You analyze and describe simple business processes that are related to your project.</a></td>
-    <td align="left">Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.
+    <td align="left">Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.<br><br>
 
-Related: Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them).
+Related: Business processes during which the software that you are developing will be used (business processes that the software must support by fully or partially automating them).<br><br>
 
-or
+or<br><br>
 
-Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
+Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).<br><br>
 
   </td>
   </tr>
   <tr>
     <td align="left">Professional</a></td>
     <td align="left">You act in a professional manner during software development and learning.</a></td>
-    <td align="left">You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.
+    <td align="left">You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.<br><br>
 
-You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
+You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.<br><br>
 You choose and substantiate solutions for a given problem
 
   </td>
