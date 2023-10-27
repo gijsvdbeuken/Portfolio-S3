@@ -25,56 +25,83 @@ Each of these links offers all relevant information regarding the respective pro
 
 ## Proof of Learning Outcomes <a name="heading-proof-of-learning-outcomes"></a>
 
-<!-- Start of Table of Contents -->
 <table>
   <tr>
-    <td align="left">**Learning outcome**</td>
-    <td align="left">**Rating**</td>
-    <td align="left">**Clarification**</td>
+    <td align="left"><strong>Learning outcome</strong></td>
+    <td align="left"><strong>Rating</strong></td>
+    <td align="left"><strong>Clarification</strong></td>
   </tr>
   <tr>
   <td align="left">Web Application</td>
   <td align="left">Advanced</td>
   <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
-  
-  **Proof of achievement: [:link:](https://github.com)**
-  
+
+**Proof of achievement: [:link:](https://github.com)**
+
   </td>
 </tr>
 
   <tr>
     <td align="left">Software quality</a></td>
     <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+
+**Proof of achievement: [:link:](https://github.com)**
+
+  </td>
   </tr>
   <tr>
     <td align="left">Agile method</a></td>
     <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+
+**Proof of achievement: [:link:](https://github.com)**
+
+  </td>
   </tr>
   <tr>
     <td align="left">CI/CD</a></td>
     <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+
+**Proof of achievement: [:link:](https://github.com)**
+
+  </td>
   </tr>
   <tr>
     <td align="left">Cultural Differences and Ethics</a></td>
     <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+
+**Proof of achievement: [:link:](https://github.com)**
+
+  </td>
   </tr>
   <tr>
     <td align="left">Requirements and design</a></td>
     <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+
+**Proof of achievement: [:link:](https://github.com)**
+
+  </td>
   </tr>
   <tr>
     <td align="left">Business processes</a></td>
     <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus..</td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+
+**Proof of achievement: [:link:](https://github.com)**
+
+  </td>
   </tr>
   <tr>
     <td align="left">Professional</a></td>
     <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.</td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+
+**Proof of achievement: [:link:](https://github.com)**
+
+  </td>
   </tr>
 </table>
