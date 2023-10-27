@@ -35,9 +35,9 @@ Each of these links offers all relevant information regarding the respective pro
   <tr>
   <td align="left">Web Application</td>
   <td align="left">Advanced</td>
-  <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.
+  <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
   
-  Proof of achievement: [:link:](https://github.com)
+  **Proof of achievement: [:link:](https://github.com)**
   
   </td>
 </tr>
