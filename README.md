@@ -33,68 +33,43 @@ Each of these links offers all relevant information regarding the respective pro
     <td align="center">Clarification</td>
   </tr>
   <tr>
-    <td align="center"><a href="#section4">Section 4</a></td>
-    <td align="center"><a href="#section5">Section 5</a></td>
-    <td align="center"><a href="#section6">Section 6</a></td>
+    <td align="center">Web Application</a></td>
+    <td align="center">Advanced</a></td>
+    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
   </tr>
   <tr>
-    <td align="center"><a href="#section7">Section 7</a></td>
-    <td align="center"><a href="#section8">Section 8</a></td>
-    <td align="center"><a href="#section9">Section 9</a></td>
+    <td align="center">Web Application</a></td>
+    <td align="center">Advanced</a></td>
+    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+  </tr>
+  <tr>
+    <td align="center">Web Application</a></td>
+    <td align="center">Advanced</a></td>
+    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+  </tr>
+  <tr>
+    <td align="center">Web Application</a></td>
+    <td align="center">Advanced</a></td>
+    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+  </tr>
+  <tr>
+    <td align="center">Web Application</a></td>
+    <td align="center">Advanced</a></td>
+    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+  </tr>
+  <tr>
+    <td align="center">Web Application</a></td>
+    <td align="center">Advanced</a></td>
+    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+  </tr>
+  <tr>
+    <td align="center">Web Application</a></td>
+    <td align="center">Advanced</a></td>
+    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+  </tr>
+  <tr>
+    <td align="center">Web Application</a></td>
+    <td align="center">Advanced</a></td>
+    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
   </tr>
 </table>
-<!-- End of Table of Contents -->
-
-<!-- Section 1 -->
-
-### Section 1
-
-Content for Section 1 goes here.
-
-<!-- Section 2 -->
-
-### Section 2
-
-Content for Section 2 goes here.
-
-<!-- Section 3 -->
-
-### Section 3
-
-Content for Section 3 goes here.
-
-<!-- Section 4 -->
-
-### Section 4
-
-Content for Section 4 goes here.
-
-<!-- Section 5 -->
-
-### Section 5
-
-Content for Section 5 goes here.
-
-<!-- Section 6 -->
-
-### Section 6
-
-Content for Section 6 goes here.
-
-<!-- Section 7 -->
-
-### Section 7
-
-Content for Section 7 goes here.
-
-<!-- Section 8 -->
-
-### Section 8
-
-Content for Section 8 goes here.
-
-<!-- Section 9 -->
-
-### Section 9
-
-Content for Section 9 goes here.
