@@ -6,7 +6,7 @@ _Made by Gijs van den Beuken_
 
 - [Introduction](#heading-introduction)
 - [Projects](#heading-projects)
-- [Proof of Learning Outcomes](#heading-proof-of-learning-outcomes)
+- [Learning Outcomes](#heading-learning-outcomes)
 
 ## Introduction <a name="heading-introduction"></a>
 
@@ -23,13 +23,15 @@ Each of these links offers all relevant information regarding the respective pro
 - [Individual Project Overview](../IPS3-DB02-overview)
 - [Group Project Overview](../IPS3-DB02-overview)
 
-## Proof of Learning Outcomes <a name="heading-proof-of-learning-outcomes"></a>
+## Proof of Learning Outcomes <a name="heading-learning-outcomes"></a>
 
 Below, you'll find a comprehensive list of the learning outcomes presented to us this semester. Each outcome is accompanied by a self-assessment rating, an explanation of the rationale behind that rating, and the supporting evidence for it.
 
 If you're uncertain about the meaning of these learning outcomes, please refer to the following link for clarification.
 
-[Explanation of the Learning Outcomes](./Learning-outcomes.md)<br><br>
+[Explanation of the Learning Outcomes](./Learning-outcomes.md)
+
+### Proof of Achievement
 
 <table>
   <tr>
