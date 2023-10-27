@@ -25,6 +25,12 @@ Each of these links offers all relevant information regarding the respective pro
 
 ## Proof of Learning Outcomes <a name="heading-proof-of-learning-outcomes"></a>
 
+Below, you'll find a comprehensive list of the learning outcomes presented to us this semester. Each outcome is accompanied by a self-assessment rating, an explanation of the rationale behind that rating, and the supporting evidence for it.
+
+If you're uncertain about the meaning of these learning outcomes, please refer to the following link for clarification.
+
+[Explanation of the Learning Outcomes](./Learning-outcomes.md)
+
 <table>
   <tr>
     <td align="left"><strong>Learning outcome</strong></td>
