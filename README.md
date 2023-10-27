@@ -29,7 +29,7 @@ Below, you'll find a comprehensive list of the learning outcomes presented to us
 
 If you're uncertain about the meaning of these learning outcomes, please refer to the following link for clarification.
 
-[Explanation of the Learning Outcomes](./Learning-outcomes.md)
+[Explanation of the Learning Outcomes](./Learning-outcomes.md)<br><br>
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Advanced</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**
+**Proof of achievement: [:link:](https://github.com)**<br><br>
 
   </td>
   </tr>
@@ -61,7 +61,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Advanced</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**
+**Proof of achievement: [:link:](https://github.com)**<br><br>
 
   </td>
   </tr>
@@ -70,7 +70,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Advanced</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**
+**Proof of achievement: [:link:](https://github.com)**<br><br>
 
   </td>
   </tr>
@@ -79,7 +79,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Advanced</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**
+**Proof of achievement: [:link:](https://github.com)**<br><br>
 
   </td>
   </tr>
@@ -88,7 +88,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Advanced</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**
+**Proof of achievement: [:link:](https://github.com)**<br><br>
 
   </td>
   </tr>
@@ -97,7 +97,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Advanced</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**
+**Proof of achievement: [:link:](https://github.com)**<br><br>
 
   </td>
   </tr>
@@ -106,7 +106,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Advanced</a></td>
     <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**
+**Proof of achievement: [:link:](https://github.com)**<br><br>
 
   </td>
   </tr>
