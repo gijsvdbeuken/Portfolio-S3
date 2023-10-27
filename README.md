@@ -28,14 +28,14 @@ Each of these links offers all relevant information regarding the respective pro
 <!-- Start of Table of Contents -->
 <table>
   <tr>
-    <td align="center">Learning outcome</td>
-    <td align="center">Rating</td>
-    <td align="center">Clarification</td>
+    <td align="left">Learning outcome</td>
+    <td align="left">Rating</td>
+    <td align="left">Clarification</td>
   </tr>
   <tr>
-    <td align="center">Web Application</a></td>
-    <td align="center">Advanced</a></td>
-    <td align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
+    <td align="left">Web Application</a></td>
+    <td align="left">Advanced</a></td>
+    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus. Sed vehicula ante at arcu varius, id malesuada dolor commodo. Proin euismod tortor ac purus tincidunt, id elementum justo auctor. Vivamus fringilla bibendum neque, id congue urna auctor nec.</td>
   </tr>
   <tr>
     <td align="center">Web Application</a></td>
