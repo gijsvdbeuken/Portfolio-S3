@@ -9,7 +9,7 @@ _Made by Gijs van den Beuken_
 - [Projects](#heading-projects)
   - [Overview of Each Project](#subheading-overview-of-each-project)
 - [Learning Outcomes](#heading-learning-outcomes)
-  - [Proof of achievement](#subheading-proof-of-achievement)
+  - [Proof of Achievement](#subheading-proof-of-achievement)
 
 ## Introduction <a name="heading-introduction"></a>
 
@@ -50,7 +50,7 @@ Below, you'll find a comprehensive list of the learning outcomes presented to us
 
 If you're uncertain about the meaning of these learning outcomes, please refer to the following link for clarification.
 
-[Explanation of the Learning Outcomes](./Learning-outcomes.md)
+[Explanation of the Learning Outcomes](./Explanation-learning-outcomes.md)
 
 ### Proof of Achievement <a name="subheading-proof-of-achievement"></a>
 

@@ -1,4 +1,4 @@
-# Explanation of Learing Outcomes
+# Explanation of Learning Outcomes
 
 <table>
   <tr>
