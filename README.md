@@ -56,74 +56,82 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   </tr>
   <tr>
   <td align="left">Web Application</td>
-  <td align="left">Not yet specified</td>
-  <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+  <td align="left">Proficient</td>
+  <td align="left">I specialize in crafting user-friendly, full-stack web applications. In the front-end, I leverage CSS to ensure a seamless and enjoyable user experience. The application boasts a diverse array of technologies, and I've implemented protected routes tailored to user roles. Notably, the web application remains fully functional even when not connected to the API.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**<br><br>
+**Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
+
+**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API-v2)**<br><br>
 
   </td>
 </tr>
 
   <tr>
     <td align="left">Software quality</a></td>
-    <td align="left">Not yet specified</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+    <td align="left">Proficient</a></td>
+    <td align="left">I prioritize maintaining high software quality in my applications. Both the front-end and back-end are equipped with comprehensive unit tests, meticulously validating various components of the application. Furthermore, I have implemented a separation between the front-end and back-end to ensure robust error handling in case either encounters issues. Lastly, I adhere to industry-standard practices such as the use of JWT tokens and meticulous request handling to uphold security standards.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**<br><br>
+**Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
+
+**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API-v2)**<br><br>
 
   </td>
   </tr>
   <tr>
     <td align="left">Agile method</a></td>
-    <td align="left">Not yet specified</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+    <td align="left">Proficient</a></td>
+    <td align="left">I have adeptly chosen and implemented the most fitting agile software development method for my software projects. My proficiency is grounded in a thorough understanding of the prevalent agile methods and their foundational principles. Throughout my individual project, I iteratively adjusted the software I employed, cultivating a deeper insight into which tools had the most impactful influence on my application. This dynamic approach allowed me to refine my choices and enhance the overall effectiveness of the development process.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**<br><br>
+**Proof of achievement (individual documentation): [:link:](https://github.com/gijsvdbeuken/fxWizard-documentation)**<br><br>
 
   </td>
   </tr>
   <tr>
     <td align="left">CI/CD</a></td>
     <td align="left">Not yet specified</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+    <td align="left">I've integrated CI-CD pipelines into both the front-end and back-end of my applications. These pipelines are equipped with comprehensive testing, including meticulous unit testing to catch minor errors, and the seamless creation of Docker images to ensure a smooth development workflow.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**<br><br>
+**Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
+
+**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API-v2)**<br><br>
 
   </td>
   </tr>
   <tr>
     <td align="left">Cultural Differences and Ethics</a></td>
-    <td align="left">Advanced</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+    <td align="left">Proficient</a></td>
+    <td align="left">All of my applications are designed with a keen awareness of cultural differences and ethical considerations. The code is consistently written in English, and the tools utilized are universally accessible. I have ensured that there are no elements that could pose obstacles for individuals from diverse backgrounds, promoting inclusivity and ease of use for users worldwide.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**<br><br>
+**Proof of achievement (individual documentation): [:link:](https://github.com/gijsvdbeuken/fxWizard-documentation)**<br><br>
 
   </td>
   </tr>
   <tr>
     <td align="left">Requirements and design</a></td>
-    <td align="left">Not yet specified</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+    <td align="left">Proficient</a></td>
+    <td align="left">I have successfully demonstrated proficiency in analyzing non-functional requirements and elaborating on architectural designs. I validate these aspects through the application of various test techniques, incorporating both user acceptance testing and gathering stakeholder feedback. Additionally, I meticulously evaluate the quality of the design, employing techniques such as testing and prototyping.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**<br><br>
+**Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
+
+**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API-v2)**<br><br>
 
   </td>
   </tr>
   <tr>
     <td align="left">Business processes</a></td>
-    <td align="left">Not yet specified</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+    <td align="left">Proficient</a></td>
+    <td align="left">I have effectively analyzed and described simple business processes relevant to my project. These processes involve stakeholders and predominantly follow sequential paths with one or two alternative routes. I have considered business processes integral to the use of the software under development, ensuring that the software fully or partially automates these processes. This comprehensive analysis ensures alignment with project goals and the seamless integration of software into relevant business operations.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**<br><br>
+**Proof of achievement (individual documentation): [:link:](https://github.com/gijsvdbeuken/fxWizard-documentation)**<br><br>
 
   </td>
   </tr>
   <tr>
     <td align="left">Professional</a></td>
-    <td align="left">Not yet specified</a></td>
-    <td align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum, tortor eget imperdiet tincidunt, mauris augue venenatis nisl, eget malesuada justo purus vel purus.<br><br>
+    <td align="left">Proficient</a></td>
+    <td align="left">I consistently exhibit professionalism throughout the software development process and my learning journey. In a team environment, I adhere to prescribed software methodologies and honor team agreements, ensuring a collaborative and efficient workflow. I demonstrate effective progress tracking and communication with the team, keeping all stakeholders informed about the project's status.<br><br>
 
-**Proof of achievement: [:link:](https://github.com)**<br><br>
+**Proof of achievement (individual documentation): [:link:](https://github.com/gijsvdbeuken/fxWizard-documentation)**<br><br>
 
   </td>
   </tr>
