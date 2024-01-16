@@ -21,13 +21,14 @@ This portfolio comprises all relevant repositories associated with the third sem
 
 ```
 Portfolio-S3
+└─ GPS3-DBO2-overview
 └─ IPS3-DBO2-overview
    └─ fxWizard-script
    └─ fxWizard-front-end
    └─ fxWizard-API
    └─ fxWizard-documentation
-      └─ fxWizard-security-analysis
-      └─ fxWizard-individual-analysis
+      └─ fxWizard-analysis-security
+      └─ fxWizard-analysis-individual
 ```
 
 ## Projects <a name="heading-projects"></a>
@@ -37,7 +38,7 @@ The third semester has predominantly been divided into two distinct categories: 
 Each of these links offers all relevant information regarding the respective project, encompassing documentation, architecture, front-end, back-end, etc.
 
 - [Individual Project Overview](https://github.com/gijsvdbeuken/IPS3-DB02-overview)
-- [Group Project Overview](https://github.com/gijsvdbeuken/IPS3-DB02-overview)
+- [Group Project Overview](https://github.com/gijsvdbeuken/GPS3-DB02-overview)
 
 ## Learning Outcomes <a name="heading-learning-outcomes"></a>
 
@@ -99,7 +100,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   <tr>
     <td align="left">Cultural Differences and Ethics</a></td>
     <td align="left">Proficient</a></td>
-    <td align="left">All of my applications are designed with a keen awareness of cultural differences and ethical considerations. The code is consistently written in English, and the tools utilized are universally accessible. I have ensured that there are no elements that could pose obstacles for individuals from diverse backgrounds, promoting inclusivity and ease of use for users worldwide.<br><br>
+    <td align="left">All of my applications are designed with a keen awareness of cultural differences and ethical considerations. The code is consistently written in English, and the tools utilized are universally accessible. I have ensured that there are no elements that could pose obstacles for individuals from diverse backgrounds, promoting inclusivity and ease of use for users worldwide. Also, in the provided link below, there will be a repository which also contains an analysis on the cultural differences and ethics regarding the groupproject.<br><br>
 
 **Proof of achievement (individual documentation): [:link:](https://github.com/gijsvdbeuken/fxWizard-documentation)**<br><br>
 
