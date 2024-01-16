@@ -1,1 +1,0 @@
-# Cultural differences and ethics
