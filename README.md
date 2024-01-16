@@ -21,14 +21,13 @@ This portfolio comprises all relevant repositories associated with the third sem
 
 ```
 Portfolio-S3
-└─ GPS3-DBO2-overview
-   └─ S3_DB_IO
 └─ IPS3-DBO2-overview
    └─ fxWizard-script
    └─ fxWizard-front-end
-   └─ fxWizard-back-end
-   └─ fxWizard-documentation
    └─ fxWizard-API
+   └─ fxWizard-documentation
+      └─ fxWizard-security-analysis
+      └─ fxWizard-individual-analysis
 ```
 
 ## Projects <a name="heading-projects"></a>
@@ -61,7 +60,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
 
 **Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
 
-**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API-v2)**<br><br>
+**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API)**<br><br>
 
   </td>
 </tr>
@@ -73,7 +72,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
 
 **Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
 
-**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API-v2)**<br><br>
+**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API)**<br><br>
 
   </td>
   </tr>
@@ -88,12 +87,12 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
   </tr>
   <tr>
     <td align="left">CI/CD</a></td>
-    <td align="left">Not yet specified</a></td>
+    <td align="left">Proficient</a></td>
     <td align="left">I've integrated CI-CD pipelines into both the front-end and back-end of my applications. These pipelines are equipped with comprehensive testing, including meticulous unit testing to catch minor errors, and the seamless creation of Docker images to ensure a smooth development workflow.<br><br>
 
 **Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
 
-**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API-v2)**<br><br>
+**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API)**<br><br>
 
   </td>
   </tr>
@@ -113,7 +112,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
 
 **Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
 
-**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API-v2)**<br><br>
+**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API)**<br><br>
 
   </td>
   </tr>
