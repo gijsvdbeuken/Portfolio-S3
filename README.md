@@ -91,9 +91,9 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Proficient</a></td>
     <td align="left">I've integrated CI-CD pipelines into both the front-end and back-end of my applications. These pipelines are equipped with comprehensive testing, including meticulous unit testing to catch minor errors, and the seamless creation of Docker images to ensure a smooth development workflow.<br><br>
 
-**Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
+**Proof of achievement (front-end CICD): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end/blob/main/.github/workflows/react-ci-cd.yml)**<br><br>
 
-**Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API)**<br><br>
+**Proof of achievement (API CICD): [:link:](https://github.com/gijsvdbeuken/fxWizard-API/blob/main/.github/workflows/node-ci-cd.yml)**<br><br>
 
   </td>
   </tr>
