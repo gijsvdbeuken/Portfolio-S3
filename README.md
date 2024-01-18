@@ -102,7 +102,7 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">Proficient</a></td>
     <td align="left">All of my applications are designed with a keen awareness of cultural differences and ethical considerations. The code is consistently written in English, and the tools utilized are universally accessible. I have ensured that there are no elements that could pose obstacles for individuals from diverse backgrounds, promoting inclusivity and ease of use for users worldwide. Also, in the provided link below, there will be a repository which also contains an analysis on the cultural differences and ethics regarding the groupproject.<br><br>
 
-**Proof of achievement (individual documentation): [:link:](https://github.com/gijsvdbeuken/fxWizard-documentation)**<br><br>
+**Proof of achievement (Cultural Differences & Ethics Analysis): [:link:](https://github.com/gijsvdbeuken/fxWizard-documentation/blob/main/E%26CD-analysis.docx)**<br><br>
 
   </td>
   </tr>
@@ -112,7 +112,6 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">I have successfully demonstrated proficiency in analyzing non-functional requirements and elaborating on architectural designs. I validate these aspects through the application of various test techniques, incorporating both user acceptance testing and gathering stakeholder feedback. Additionally, I meticulously evaluate the quality of the design, employing techniques such as testing and prototyping.<br><br>
 
 **Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
-
 **Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API)**<br><br>
 
   </td>
