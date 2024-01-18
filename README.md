@@ -61,6 +61,8 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
 
 **Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
 **Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API)**<br><br>
+**Proof of achievement (Group project, back-end): [:link:](https://github.com/S3-IO-Dev/S3_DB_IO)**<br><br>
+**Proof of achievement (Group project, front-end): [:link:](https://github.com/S3-IO-Dev/S3-DB-IO-Front-end)**<br><br>
 
   </td>
 </tr>
@@ -92,7 +94,6 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">I've integrated CI-CD pipelines into both the front-end and back-end of my applications. These pipelines are equipped with comprehensive testing, including meticulous unit testing to catch minor errors, and the seamless creation of Docker images to ensure a smooth development workflow.<br><br>
 
 **Proof of achievement (front-end CICD): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end/blob/main/.github/workflows/react-ci-cd.yml)**<br><br>
-
 **Proof of achievement (API CICD): [:link:](https://github.com/gijsvdbeuken/fxWizard-API/blob/main/.github/workflows/node-ci-cd.yml)**<br><br>
 
   </td>
@@ -122,6 +123,8 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">I have effectively analyzed and described simple business processes relevant to my project. These processes involve stakeholders and predominantly follow sequential paths with one or two alternative routes. I have considered business processes integral to the use of the software under development, ensuring that the software fully or partially automates these processes. This comprehensive analysis ensures alignment with project goals and the seamless integration of software into relevant business operations.<br><br>
 
 **Proof of achievement (individual documentation): [:link:](https://github.com/gijsvdbeuken/fxWizard-documentation)**<br><br>
+**Proof of achievement (Group project, back-end): [:link:](https://github.com/S3-IO-Dev/S3_DB_IO)**<br><br>
+**Proof of achievement (Group project, front-end): [:link:](https://github.com/S3-IO-Dev/S3-DB-IO-Front-end)**<br><br>
 
   </td>
   </tr>
