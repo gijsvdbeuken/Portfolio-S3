@@ -71,9 +71,9 @@ If you're uncertain about the meaning of these learning outcomes, please refer t
     <td align="left">I prioritize maintaining high software quality in my applications. Both the front-end and back-end are equipped with comprehensive unit tests, meticulously validating various components of the application. Furthermore, I have implemented a separation between the front-end and back-end to ensure robust error handling in case either encounters issues. Lastly, I adhere to industry-standard practices such as the use of JWT tokens and meticulous request handling to uphold security standards.<br><br>
 
 **Proof of achievement (individual front-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end)**<br><br>
-**Proof of achievement (front-end unit-tests): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end/src/components)**<br><br>
+**Proof of achievement (front-end unit-tests): [:link:](https://github.com/gijsvdbeuken/fxWizard-front-end/tree/main/src/components)**<br><br>
 **Proof of achievement (individual back-end project): [:link:](https://github.com/gijsvdbeuken/fxWizard-API)**<br><br>
-**Proof of achievement (API unit-tests): [:link:](https://github.com/gijsvdbeuken/fxWizard-API/test)**<br><br>
+**Proof of achievement (API unit-tests): [:link:](https://github.com/gijsvdbeuken/fxWizard-API/tree/main/test)**<br><br>
 
   </td>
   </tr>
